@@ -1,0 +1,30 @@
+1001,5 star,5,100
+1002,Munch,5,100
+1003,cake,300,20
+1004,special cake,500,20
+1005,Fanta,45,20
+1006,cocola,60,40
+1007,Parle Biscuit,85,55
+1008,20 Biscuit,60,90
+1009,Pepsi,70,30
+1010,Mahesh Namkeen,35,87
+1011,Shirt,550,100
+1012,T-shirt,350,120
+1013,Mens-Jeans,750,150
+1014,Ladies-Jeans,850,130
+1015,Kurta,450,110
+1016,Cap,120,120
+1017,Full Lower,400,200
+1018,Half Lower,250,230
+1019,Underwear,80,80
+1020,Dew,65,70
+1021,sleeper,120,120
+1022,Cooler,5000,500
+1023,fridge,60000,230
+1024,AC,80000,50
+1025,Fan,2000,60
+1026,Press,750,300
+1027,Bottle,150,280
+1028,Bag,1500,300
+1029,HP Laptop,60000,20
+1030,Dell Laptop,55000,15
